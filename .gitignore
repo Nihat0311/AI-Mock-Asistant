@@ -1,0 +1,20 @@
+# Virtual mühit
+venv/
+ENV/
+env/
+
+# Python keş faylları
+__pycache__/
+*.py[cod]
+
+# Məlumat bazası və məxfi fayllar
+*.db
+.env
+
+# Səs faylları
+audio_files/
+*.mp3
+*.wav
+*.webm
+
+data/
